@@ -13,3 +13,7 @@ https://omegaup.com/arena/problem/aldp#problems
 ```
 https://omegaup.com/arena/problem/Sumas-Veleanas#problems
 ```
+* **Sumas Primos**
+```
+https://omegaup.com/arena/problem/Suma-de-primos#problems
+```
